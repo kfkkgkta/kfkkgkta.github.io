@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #8",
+  "description": "AS SHE WALKED ALONG THE STREET AND LOOKED IN THE GUTTER, SHE REALIZED FACEMASKS HAD BECOME THE NEW CIGARETTE BUTTS.",
+  "image": "https://kfkkgkta.github.io/8.png",
+  "dna": "a66c7fd7a28029e635b0a2cc20a1f0526c040c30",
+  "edition": 8,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Living Room"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Suspicious"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Wave"
+    }
+  ]
+}

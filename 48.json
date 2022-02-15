@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #48",
+  "description": "SHE WAS AMAZED BY THE LARGE CHUNKS OF ICE WASHING UP ON THE BEACH.",
+  "image": "https://kfkkgkta.github.io/48.png",
+  "dna": "5294763d0eea359e476f757ea193ada3170d4ec2",
+  "edition": 48,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Basketball"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stunned 2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Toilet"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Gym"
+    }
+  ]
+}

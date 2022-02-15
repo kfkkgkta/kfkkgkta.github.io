@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #45",
+  "description": "THE MANAGER OF THE FRUIT STAND ALWAYS SAT AND ONLY SOLD VEGETABLES.",
+  "image": "https://kfkkgkta.github.io/45.png",
+  "dna": "81cccab88bf3beaf2c958b3d3bbc8848bee91724",
+  "edition": 45,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Basketball"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Observing"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Alien Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Thinking"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Normal"
+    }
+  ]
+}

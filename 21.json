@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #21",
+  "description": "YOU HAVE NO RIGHT TO CALL YOURSELF CREATIVE UNTIL YOU LOOK AT A TROWEL AND THINK THAT IT WOULD MAKE A GREAT LOCKPICK.",
+  "image": "https://kfkkgkta.github.io/21.png",
+  "dna": "682556913f71d2b351c56ef9d36a7e2a14bf8c4a",
+  "edition": 21,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "House"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Egyptian"
+    }
+  ]
+}

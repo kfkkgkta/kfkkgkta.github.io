@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #19",
+  "description": "IT MUST BE EASY TO COMMIT CRIMES AS A SNAKE BECAUSE YOU DON'T HAVE TO WORRY ABOUT LEAVING FINGERPRINTS.",
+  "image": "https://kfkkgkta.github.io/19.png",
+  "dna": "fcc8b458a33380d932635e235840a56ea6c87bce",
+  "edition": 19,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "School"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Dog Ears Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling 2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Normal"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #17",
+  "description": "HE FOUND THE CHOCOLATE COVERED ROACHES QUITE TASTY.",
+  "image": "https://kfkkgkta.github.io/17.png",
+  "dna": "4f036b3840619c794c6c01b049c256101b83ca0e",
+  "edition": 17,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Living Room"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chinese"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Egyptian"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #47",
+  "description": "SHE MOVED FORWARD ONLY BECAUSE SHE TRUSTED THAT THE ENDING SHE NOW WAS GOING THROUGH MUST BE FOLLOWED BY A NEW BEGINNING.",
+  "image": "https://kfkkgkta.github.io/47.png",
+  "dna": "77e03e1201057514b03bb2bbd0ab4c772fd7b796",
+  "edition": 47,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bathroom"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Circular Cut"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Green Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Suspicious Cute"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Head Scratching"
+    }
+  ]
+}

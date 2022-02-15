@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #27",
+  "description": "CHOOSING TO DO NOTHING IS STILL A CHOICE, AFTER ALL.",
+  "image": "https://kfkkgkta.github.io/27.png",
+  "dna": "f122513413221540f92608c8d331d2ffbf441a14",
+  "edition": 27,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wasteland 2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Normal"
+    }
+  ]
+}

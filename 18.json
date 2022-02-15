@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #18",
+  "description": "THE DOOR SLAMMED ON THE WATERMELON.",
+  "image": "https://kfkkgkta.github.io/18.png",
+  "dna": "e33e691fce40a75b6e3dcaf7a31ff2d26d423a2e",
+  "edition": 18,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "House"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute 1"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Soccer"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Thinking"
+    }
+  ]
+}

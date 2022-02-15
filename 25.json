@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #25",
+  "description": "THE FISH LISTENED INTENTLY TO WHAT THE FROGS HAD TO SAY.",
+  "image": "https://kfkkgkta.github.io/25.png",
+  "dna": "d641da034672bc0c835d279e84f076681b35dc76",
+  "edition": 25,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "House"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Normal"
+    }
+  ]
+}

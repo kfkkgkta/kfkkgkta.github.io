@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #26",
+  "description": "EVERYONE WAS CURIOUS ABOUT THE LARGE WHITE BLIMP THAT APPEARED OVERNIGHT.",
+  "image": "https://kfkkgkta.github.io/26.png",
+  "dna": "71c92c01649aa3ef6d3f168f63544f192581ab42",
+  "edition": 26,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Space"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Indifferent"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Hug"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #38",
+  "description": "NANCY DECIDED TO MAKE THE PORTA-POTTY HER HOME.",
+  "image": "https://kfkkgkta.github.io/38.png",
+  "dna": "df094948394829dec5c5944c641806e4d2e0d973",
+  "edition": 38,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gym"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Observing"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Suspicious Cute"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Middle Finger"
+    }
+  ]
+}

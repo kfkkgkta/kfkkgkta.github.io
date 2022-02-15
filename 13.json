@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #13",
+  "description": "HE KNEW IT WAS GOING TO BE A BAD DAY WHEN HE SAW MOUNTAIN LIONS ROAMING THE STREETS.",
+  "image": "https://kfkkgkta.github.io/13.png",
+  "dna": "4cef37345fa32f6dcb10e8fc29d292296b537c0b",
+  "edition": 13,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wasteland"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Bored"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stunned"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Desk Chair"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Gym"
+    }
+  ]
+}

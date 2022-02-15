@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #37",
+  "description": "THE NEAR-DEATH EXPERIENCE BROUGHT NEW IDEAS TO LIGHT.",
+  "image": "https://kfkkgkta.github.io/37.png",
+  "dna": "85800a9b99af19bd9473886b30919a74dd809dd4",
+  "edition": 37,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hill"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Falling"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Middle Finger"
+    }
+  ]
+}

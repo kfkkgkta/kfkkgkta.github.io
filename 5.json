@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #5",
+  "description": "THE HEAT",
+  "image": "https://kfkkgkta.github.io/5.png",
+  "dna": "73d883bb04fca5e4fc129d78f787877da0c061a9",
+  "edition": 5,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Basketball"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused 2"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Joint"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Bracelet"
+    }
+  ]
+}

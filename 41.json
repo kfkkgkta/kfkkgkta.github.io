@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #41",
+  "description": "SHE FINALLY UNDERSTOOD THAT GRIEF WAS HER LOVE WITH NO PLACE FOR IT TO GO.",
+  "image": "https://kfkkgkta.github.io/41.png",
+  "dna": "0e81566cce8309ebe5e8087cabb89685c447d29f",
+  "edition": 41,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "House"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Walking Stick"
+    }
+  ]
+}

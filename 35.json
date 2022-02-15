@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #35",
+  "description": "NOBODY LOVES A PIG WEARING LIPSTICK.",
+  "image": "https://kfkkgkta.github.io/35.png",
+  "dna": "dc050b45757c3ca2d4f8414d05d5669d376985c2",
+  "edition": 35,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pub"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry 4"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Stool"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Normal"
+    }
+  ]
+}

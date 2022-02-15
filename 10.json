@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #10",
+  "description": "SHE USED HER OWN HAIR IN THE SOUP TO GIVE IT MORE FLAVOR.",
+  "image": "https://kfkkgkta.github.io/10.png",
+  "dna": "557beed0a1d08f69fd115bd40fb5113646340215",
+  "edition": 10,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bathroom"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused1"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Shoes"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Normal"
+    }
+  ]
+}

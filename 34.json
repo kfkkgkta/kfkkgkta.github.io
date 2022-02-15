@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #34",
+  "description": "HE WOULD ONLY SURVIVE IF HE KEPT THE FIRE GOING AND HE COULD HEAR THUNDER IN THE DISTANCE.",
+  "image": "https://kfkkgkta.github.io/34.png",
+  "dna": "1a2d49aca26ed6b86f7294964e218d1af6911e8e",
+  "edition": 34,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Gym"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Hug"
+    }
+  ]
+}

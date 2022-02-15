@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #29",
+  "description": "DAN TOOK THE DEEP DIVE DOWN THE RABBIT HOLE.",
+  "image": "https://kfkkgkta.github.io/29.png",
+  "dna": "ba7c38098d9df91faa7f8f74506852b85b4dc9aa",
+  "edition": 29,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Living Room"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry 4"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Indifferent"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Bracelet"
+    }
+  ]
+}

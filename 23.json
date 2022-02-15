@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #23",
+  "description": "AS THE ASTEROID HURTLED TOWARD EARTH, BECKY WAS UPSET HER DENTIST APPOINTMENT HAD BEEN CANCELED.",
+  "image": "https://kfkkgkta.github.io/23.png",
+  "dna": "49237bfbc0e5279fe4d3a42db859bd09d82c3efa",
+  "edition": 23,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factory"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Lateral"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Straight"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #42",
+  "description": "HE HAD REACHED THE POINT WHERE HE WAS PARANOID ABOUT BEING PARANOID.",
+  "image": "https://kfkkgkta.github.io/42.png",
+  "dna": "ba1f5fd93835aa133ca4eea72fe77bbacc3b4375",
+  "edition": 42,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Basketball"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Observing"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Painter Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Shoes"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Straight"
+    }
+  ]
+}

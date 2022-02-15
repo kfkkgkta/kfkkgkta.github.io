@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #31",
+  "description": "HE WAS SURE THE DEVIL CREATED RED SPARKLY GLITTER.",
+  "image": "https://kfkkgkta.github.io/31.png",
+  "dna": "db097e422298b1ddd9866b351a9c5bd400bdace5",
+  "edition": 31,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Basketball"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stunned"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Stool"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Middle Finger"
+    }
+  ]
+}

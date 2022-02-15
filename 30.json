@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #30",
+  "description": "HE SET OUT FOR A SHORT WALK, BUT NOW ALL HE COULD SEE WERE MANGROVES AND WATER WERE FOR MILES.",
+  "image": "https://kfkkgkta.github.io/30.png",
+  "dna": "f99a3b4ca05dd710e66861238b145725b0175d14",
+  "edition": 30,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wasteland 2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused1"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Hug"
+    }
+  ]
+}

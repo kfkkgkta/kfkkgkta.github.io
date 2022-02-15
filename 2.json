@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #2",
+  "description": "SHE ONLY PAINTS WITH BOLD COLORS; SHE DOES NOT LIKE PASTELS.",
+  "image": "https://kfkkgkta.github.io/2.png",
+  "dna": "f653bb579592d8e25a3ce33740b8d108d2593f08",
+  "edition": 2,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wasteland 2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry 1"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Scars"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Soldier"
+    }
+  ]
+}

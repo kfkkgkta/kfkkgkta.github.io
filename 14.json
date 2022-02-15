@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #14",
+  "description": "IF MY CALCULATOR HAD A HISTORY, IT WOULD BE MORE EMBARRASSING THAN MY BROWSER HISTORY.",
+  "image": "https://kfkkgkta.github.io/14.png",
+  "dna": "450e4aba964eeb3a3d7e79287c20b1078303ba4f",
+  "edition": 14,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bathroom"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chinese Confused"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Wave"
+    }
+  ]
+}

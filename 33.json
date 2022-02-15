@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #33",
+  "description": "I ONLY ENJOY WINDOW SHOPPING WHEN THE WINDOWS ARE TRANSPARENT.",
+  "image": "https://kfkkgkta.github.io/33.png",
+  "dna": "07b76f096d7b6421bdec75d10a8c0d0a50645968",
+  "edition": 33,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bathroom"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused1"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Suspicious 2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Desk Chair"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Normal"
+    }
+  ]
+}

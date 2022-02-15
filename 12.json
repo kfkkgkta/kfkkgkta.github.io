@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #12",
+  "description": "HE WAS THE ONLY MEMBER OF THE CLUB WHO DIDN'T LIKE PLUM PUDDING.",
+  "image": "https://kfkkgkta.github.io/12.png",
+  "dna": "201fca3fb561997962738e10f1e721c4cd2e9b30",
+  "edition": 12,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Moon"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry 4"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling 2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Soccer"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Hug"
+    }
+  ]
+}

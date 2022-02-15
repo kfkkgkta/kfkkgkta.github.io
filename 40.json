@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #40",
+  "description": "SHE COULD HEAR HIM IN THE SHOWER SINGING WITH A JOY SHE HOPED HE'D RETAIN AFTER SHE DELIVERED THE NEWS.",
+  "image": "https://kfkkgkta.github.io/40.png",
+  "dna": "0e4d03e47cab7fbb3cc5c53d7d38d11155b3dd76",
+  "edition": 40,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hill"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyebrows"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stunned 2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Middle Finger"
+    }
+  ]
+}

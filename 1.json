@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #1",
+  "description": "THE CHIC GANGSTER LIKED TO START THE DAY WITH A PINK SCARF.",
+  "image": "https://kfkkgkta.github.io/1.png",
+  "dna": "67d886c5c0c47dedac1be8ff3b73d21dc9b0beb8",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pub"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Xmas Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smiling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Balloon"
+    }
+  ]
+}

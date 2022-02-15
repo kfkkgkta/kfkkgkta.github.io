@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #36",
+  "description": "PETER FOUND ROAD KILL AN EXCELLENT WAY TO SAVE MONEY ON DINNER.",
+  "image": "https://kfkkgkta.github.io/36.png",
+  "dna": "48a0457e85f7e34417b2e86587930709331b9010",
+  "edition": 36,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bathroom"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Laughing"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Nose picking"
+    }
+  ]
+}

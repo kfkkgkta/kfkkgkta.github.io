@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #24",
+  "description": "IT'S NEVER COMFORTING TO KNOW THAT YOUR FATE DEPENDS ON SOMETHING AS UNPREDICTABLE AS THE POPPING OF CORN.",
+  "image": "https://kfkkgkta.github.io/24.png",
+  "dna": "af22b9ff205c2f00831ae4d459cdb8e6b9f3be68",
+  "edition": 24,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Supermarket"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry 2"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Blue Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Lateral 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Lollipop"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #16",
+  "description": "HE SWORE HE JUST SAW HIS SUSHI MOVE.",
+  "image": "https://kfkkgkta.github.io/16.png",
+  "dna": "88487f4012b3ee3f208523b2689dc0694a962ddf",
+  "edition": 16,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Hill"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lines"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Suspicious Cute"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Nose picking"
+    }
+  ]
+}

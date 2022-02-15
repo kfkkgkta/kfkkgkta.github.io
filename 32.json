@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #32",
+  "description": "WHEN NOBODY IS AROUND, THE TREES GOSSIP ABOUT THE PEOPLE WHO HAVE WALKED UNDER THEM.",
+  "image": "https://kfkkgkta.github.io/32.png",
+  "dna": "3467985c1058ad98e5e88f7e89521e6f2c771f82",
+  "edition": 32,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "School"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Chinese Confused"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Painter Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Drooling"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Lollipop"
+    }
+  ]
+}

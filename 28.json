@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #28",
+  "description": "THEY DECIDED TO PLANT AN ORCHARD OF COTTON CANDY.",
+  "image": "https://kfkkgkta.github.io/28.png",
+  "dna": "2d997da4644be09def1b5c91f41908204795d6d2",
+  "edition": 28,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "House"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Angry 1"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Lateral"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Holding Boxes"
+    }
+  ]
+}

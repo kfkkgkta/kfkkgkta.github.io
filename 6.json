@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #6",
+  "description": "THIS IS A JAPANESE DOLL.",
+  "image": "https://kfkkgkta.github.io/6.png",
+  "dna": "2a8a28113264deaebd558a12caa0eebc979f87a8",
+  "edition": 6,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "House"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Indifferent"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Hug"
+    }
+  ]
+}

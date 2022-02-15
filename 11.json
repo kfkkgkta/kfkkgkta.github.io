@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #11",
+  "description": "FOR THE 216TH TIME, HE SAID HE WOULD QUIT DRINKING SODA AFTER THIS LAST COKE.",
+  "image": "https://kfkkgkta.github.io/11.png",
+  "dna": "825eb2e4fb8bf16e0cbc73fa706a69420308e37b",
+  "edition": 11,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Island"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Headphones"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Indifferent"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Lateral"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Straight"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #15",
+  "description": "THE BEST KEY LIME PIE IS STILL UP FOR DEBATE.",
+  "image": "https://kfkkgkta.github.io/15.png",
+  "dna": "92dd58b11a6a7706f21703f6dfca2ffc0c4ef815",
+  "edition": 15,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "School"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cute 1"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Alien Hat"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Cigarette"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Iphone"
+    }
+  ]
+}

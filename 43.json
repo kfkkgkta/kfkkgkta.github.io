@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #43",
+  "description": "THE CLOCK WITHIN THIS BLOG AND THE CLOCK ON MY LAPTOP ARE 1 HOUR DIFFERENT FROM EACH OTHER.",
+  "image": "https://kfkkgkta.github.io/43.png",
+  "dna": "06719aed79840a41835e925a344d50c66ba1d3e1",
+  "edition": 43,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pub"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused1"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Toilet"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Bracelet"
+    }
+  ]
+}

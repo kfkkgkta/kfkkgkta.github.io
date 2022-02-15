@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #39",
+  "description": "IT WAS ALWAYS DANGEROUS TO DRIVE WITH HIM SINCE HE INSISTED THE SAFETY CONES WERE A SLALOM COURSE.",
+  "image": "https://kfkkgkta.github.io/39.png",
+  "dna": "b5ec2b20cd15ac3f41c370c826d3ce7dde7764ee",
+  "edition": 39,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wasteland 2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Eyebrows"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stunned 2"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Egyptian"
+    }
+  ]
+}

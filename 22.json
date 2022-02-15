@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #22",
+  "description": "IT'S DIFFICULT TO UNDERSTAND THE LENGTHS HE'D GO TO REMAIN SHORT.",
+  "image": "https://kfkkgkta.github.io/22.png",
+  "dna": "26c37a593111a213df2bd3d0e1e265455588cf66",
+  "edition": 22,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "War"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Confused"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Sad"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Stool"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Middle Finger"
+    }
+  ]
+}

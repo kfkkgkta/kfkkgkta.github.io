@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #3",
+  "description": "SEEK SUCCESS, BUT ALWAYS BE PREPARED FOR RANDOM CATS.",
+  "image": "https://kfkkgkta.github.io/3.png",
+  "dna": "0cffa82f1dcad03dcfddcec8081a21e9addfe714",
+  "edition": 3,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Factory"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Lines"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Stunned"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Hug"
+    }
+  ]
+}

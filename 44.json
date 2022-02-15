@@ -1,0 +1,41 @@
+{
+  "name": "Golden Crypton Stickman #44",
+  "description": "I’M WORKING ON A SWEET POTATO FARM.",
+  "image": "https://kfkkgkta.github.io/44.png",
+  "dna": "5b5b3716183a9d0e4bad66ca7390d2c80ced66b0",
+  "edition": 44,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Wasteland 2"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Golden"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Hat",
+      "value": "Bald"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smirk"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Normal"
+    },
+    {
+      "trait_type": "Legs",
+      "value": "Normal 2"
+    },
+    {
+      "trait_type": "Arms",
+      "value": "Straight"
+    }
+  ]
+}
